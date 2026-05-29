@@ -36,3 +36,5 @@ pandas, numpy, scikit-learn, matplotlib, seaborn, statsmodels
 ```
 
 Set `ticker` and `maindir` at the top of the notebook, then run cells top to bottom. Fama-French data (`FF_Factors.csv`) must be placed in `maindir/data/`.
+
+<img width="1485" height="1536" alt="1746663196792-2" src="https://github.com/user-attachments/assets/6d77bbcf-d4a8-4a99-854f-cbb0f625e851" />
